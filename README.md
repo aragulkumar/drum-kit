@@ -33,10 +33,14 @@ No setup needed — just open and play.
 - Use a keyboard for rhythm-based play
 - Headphones recommended for full effect 🎶
 
+  ---
+
 ## 🧩 Why This Project Exists
 
 This project was built purely for fun and creativity, turning simple key presses into sound and interaction.
 Sometimes coding doesn’t need a problem statement — just a beat 🥁
+
+---
 
 ## 📌 Notes
 
