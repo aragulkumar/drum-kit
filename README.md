@@ -33,7 +33,7 @@ No setup needed — just open and play.
 - Use a keyboard for rhythm-based play
 - Headphones recommended for full effect 🎶
 
-  ---
+---
 
 ## 🧩 Why This Project Exists
 
