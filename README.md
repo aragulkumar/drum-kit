@@ -4,6 +4,7 @@ A fun and interactive **Drum Kit web game** where you can play drum sounds using
 Built for enjoyment, experimentation, and pure frontend fun.
 
 👉 **Live Demo:** https://drumkit.aragulkumar.com
+
 <img src="assets/preview.png" alt="Drum Kit Preview" width="800"/>
 
 ---
