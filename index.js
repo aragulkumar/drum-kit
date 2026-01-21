@@ -64,13 +64,13 @@ function makesound(key) {
   }
 }
 
-function buttonAnimation (currentKey) {
-
+function buttonAnimation(currentKey) {
   var activeButton = document.querySelector("." + currentKey);
+  if (!activeButton) return;
+
   activeButton.classList.add("pressed");
 
-  setTimeout(function(){
+  setTimeout(function () {
     activeButton.classList.remove("pressed");
-  },100)
-
+  }, 100);
 }
